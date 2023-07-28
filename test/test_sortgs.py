@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-import sortgs
+import googles_keyword
 import os
 import pandas as pd
 
